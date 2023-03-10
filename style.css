@@ -1,0 +1,60 @@
+﻿h1  {
+	font-family: serif;
+	font-size: 40pt;
+	color: rgb(0, 0, 153);
+}
+h2 {
+	font-family: serif;
+	font-size: 30pt;
+	color: rgb(51, 102, 204);
+}
+p {
+	font-family: sans-serif;
+	font-size: 16pt;
+	color: #0000FF;
+}
+li {
+	font-family: sans-serif;
+	color: #3399FF;
+	font-size: 14pt;
+}
+ol {
+  margin-bottom: 10%;
+}
+h3 {
+	font-family: serif;
+	font-size: 20pt;
+	color: #0000CC;
+}
+h1:hover{
+    transition: 0.6s ease;
+    font-size: 1.6em;
+    cursor: pointer;
+}
+body {
+	background-color: #000000;
+}
+
+    img {
+  display: flex;
+  padding: auto;
+  margin: 0;
+  border-radius: 130px;
+}​​
+    img{
+     padding: 20px;
+     border-radius: 130px;
+      margin-left:20px;
+}
+#middle{
+	background-color:lime
+}
+#bottom{
+	background-color:yellow
+}
+#last{
+	background-color:white
+}
+#top{
+	background-color:gray
+}
